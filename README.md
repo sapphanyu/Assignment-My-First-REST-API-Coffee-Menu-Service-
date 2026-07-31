@@ -1,4 +1,5 @@
 # Assignment: My First REST API — "Coffee Menu Service"
+# 673380066-4 สัพพัญญู คำตุ้ม
 
 > **รายวิชา:** CP353002 — Principles of Software Design and Development
 > **เทคโนโลยี:** Java 17+ (ทดสอบบน Java 21), Spring Boot 3.x, Maven Wrapper
@@ -180,4 +181,4 @@ curl -X GET http://localhost:8080/coffees/999
 ## 👥 รายละเอียดการส่งงาน
 
 * **รายวิชา:** CP353002 Principles of Software Design and Development
-* **Repository:** [แนบลิงก์ GitHub Repo ของคุณที่นี่]
+* **Repository:** https://github.com/sapphanyu/Assignment-My-First-REST-API-Coffee-Menu-Service-
