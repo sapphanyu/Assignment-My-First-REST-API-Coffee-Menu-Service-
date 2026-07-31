@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ```python
 readme_text = """# Assignment: My First REST API — "Coffee Menu Service"
+=======
+# Assignment: My First REST API - Coffee Menu Service
+# 673380066-4 นายสัพพัญญู คำตุ้ม
+>>>>>>> 454c10734e6dccf59f0d23ce958a38764328e172
 
 > **รายวิชา:** CP353002 — Principles of Software Design and Development  
 > **เทคโนโลยี:** Java 17+ (ทดสอบบน Java 26), Spring Boot 3.x, Maven Wrapper  
